@@ -1,8 +1,6 @@
 /*
  * Author: Daniel Rogers
- * CWID: 102-34-879
  * Date: 11/12/2019
- * Assignment #3
  *
  * This C++ program is a playable Othello game, which consists of two players
  * ('w' and 'b') competing for space on the board. The user has the option of
